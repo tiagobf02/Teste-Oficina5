@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp64/www/agendas/agendas/routes/web.php</file>
+            <file>file:/C:/wamp64/www/agendas/agendas/resources/views/contato/create.blade.php</file>
+            <file>file:/C:/wamp64/www/agendas/agendas/app/contato.php</file>
+            <file>file:/C:/wamp64/www/agendas/agendas/app/Http/Controllers/ContatoController.php</file>
+            <file>file:/C:/wamp64/www/agendas/agendas/database/migrations/2018_05_23_212040_create_contatos_table.php</file>
+            <file>file:/C:/wamp64/www/agendas/agendas/resources/views/contato/index.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
